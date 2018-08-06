@@ -1,4 +1,4 @@
-# vectordash-docs
+# ELOONG AI-docs
 
 This code generates ELOONG AI's documentation located at [http://docs.eloong.io/](http://docs.eloong.io/).
 
